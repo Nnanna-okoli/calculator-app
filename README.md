@@ -1,7 +1,7 @@
 
 ## Developer Message - 12th May 2022 - Nye
 Hi, this is a successful calculator app developed by Nye the developer, however I used a tutorial online to guide me through the process using React languages.
-If you wish to view the app online, click the link - https://nnanna-okoli.github.io/calculator-app/
+If you wish to view the app online, click the link -  http://localhost:3000 // https://nnanna-okoli.github.io/calculator-app/ // or follow the steps below.
 
 
 ## Available Scripts
